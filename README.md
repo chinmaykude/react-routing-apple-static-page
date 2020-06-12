@@ -1,3 +1,6 @@
+## A clone of Apple Website done for practising react routing.
+https://apple-static-routing.now.sh/
+
 ![appleStaticRoutingGIF](https://user-images.githubusercontent.com/23414927/84502833-b05bb380-acd6-11ea-9fbc-a26e6f906cc1.gif)
 
 
